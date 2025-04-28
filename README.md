@@ -10,8 +10,4 @@ Real-time Search: Immediate search results as the user types.
 
 Detailed Book Information: Access to comprehensive metadata for each book.
 
-Cover Image Display: Visually rich results showing book covers for quick recognition.
-
-Modular Codebase: Separation of concerns between components (search functionality, API communication, UI rendering).
-
 Scalability: Easily extendable for future additions like user accounts, book saving, reviews, or personalized recommendations.
